@@ -1,4 +1,4 @@
-# Semiconductor FAB KNIME — Educational Model v1.0
+# Semiconductor FAB KNIME Educational Model v1.0
 
 > Virtual CMOS 90nm Front-End fab simulation with real tool specs, 
 > multi-stage process data, and ML-based scrap prediction.
@@ -35,8 +35,8 @@ KLA 5200 · TEL Lithius · Axcelis Optima · AMAT Vantage · Novellus Concept2
 
 | File | Description |
 |------|-------------|
-| `Semiconductor_FAB_KNIME_v1.0.knwf` | KNIME workflow — import directly |
-| `fab_v2_dataset.csv` | Synthetic dataset — copy to your KNIME project folder |
+| `Semiconductor_FAB_KNIME_v1.0.knwf` | KNIME workflow - import directly |
+| `fab_v2_dataset.csv` | Synthetic dataset - copy to your KNIME project folder |
 | `fab_data_generator.py` | Python script to regenerate the dataset |
 
 ## How to use
